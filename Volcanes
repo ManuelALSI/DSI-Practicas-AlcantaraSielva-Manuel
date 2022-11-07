@@ -15,7 +15,7 @@
         </header>
         <section>
             <article>
-                <h2> Volcán</h2>
+                <h2 class="arth2"> Volcán</h2>
                 Un volcán (del nombre del dios mitológico romano Vulcano) es una estructura geológica por la que emerge el magma que se divide en lava y gases provenientes del interior de la Tierra. El ascenso del magma ocurre en episodios de actividad violenta denominados erupciones, que pueden variar en intensidad, duración y frecuencia, desde suaves corrientes de lava hasta explosiones extremadamente destructivas. En ocasiones, los volcanes adquieren una forma cónica por la acumulación de material de erupciones anteriores. En la cumbre se encuentra su cráter o caldera.
                 Por lo general, los volcanes se forman en los límites de las placas tectónicas, aunque existen los llamados puntos calientes, donde no hay contacto entre placas, como es el caso de las islas Hawái. Los volcanes pueden tener muchas formas y despedir distintos materiales. Algunas de las formas más comunes son el estratovolcán, el cono de escoria, la caldera volcánica y el volcán en escudo. También existen numerosos volcanes submarinos ubicados a lo largo de las dorsales oceánicas. Algunos volcanes alcanzan una altitud superior a los 6000 metros sobre el nivel del mar. El volcán más alto del mundo es el Nevado Ojos del Salado, en Argentina y Chile, siendo además la segunda cumbre más alta de los hemisferios sur y occidental (solo superado por el cerro argentino Aconcagua).3​
                 Los volcanes no solo existen en la Tierra, sino también en otros planetas y satélites. Algunos están formados por materiales considerados fríos y se denominan criovolcanes. En ellos, el hielo actúa como roca, mientras que el agua fría líquida interna actúa como magma; esto ocurre en la luna de Júpiter llamada Europa.
@@ -23,7 +23,7 @@
         </section>
         <section>
             <article>
-                <h2> Relación entre vulcanismo y las placas tectónicas</h2>
+                <h2 class="arth2"> Relación entre vulcanismo y las placas tectónicas</h2>
                 <h1>Límites de placa divergentes</h1>
                 En las crestas oceánicas medias, dos placas tectónicas divergen entre sí a medida que se forma una nueva corteza oceánica por el enfriamiento y la solidificación de la roca fundida caliente. Debido a que la corteza es muy delgada en estas crestas debido al tirón de las placas tectónicas, la liberación de presión conduce a la expansión adiabática (sin transferencia de calor o materia) y al derretimiento parcial del manto, causando volcanismo y creando una nueva corteza oceánica. La mayoría de los límites de placas divergentes se encuentran en el fondo de los océanos; por lo tanto, la mayor parte de la actividad volcánica en la Tierra es submarina, formando un nuevo fondo marino. Los fumadores negros (también conocidos como respiraderos de aguas profundas) son evidencia de este tipo de actividad volcánica. Donde la cresta oceánica media está sobre el nivel del mar, se forman islas volcánicas; Por ejemplo, Islandia.
                 <h1>Placas convergentes</h1>
@@ -38,12 +38,12 @@
                 Los volcanes activos son aquellos que pueden entrar en actividad eruptiva en cualquier momento, es decir, que permanecen en estado de latencia. Esto ocurre con la mayoría de los volcanes, pues ocasionalmente entran en actividad, permaneciendo en reposo la mayor parte del tiempo. El período de actividad eruptiva puede durar desde una hora hasta varios años, como fue el caso del volcán de Pacaya y del Irazú. A día de hoy, no se ha descubierto ningún método seguro para predecir las erupciones.
                 <h1>Volcanes durmientes o inactivos</h1>
                 Los volcanes durmientes o inactivos son aquellos que mantienen ciertos signos de actividad, como la presencia de aguas termales, y han entrado en actividad esporádicamente. Dentro de esta categoría suelen incluirse las fumarolas y los volcanes con largos períodos de inactividad entre una erupción y otra. Un volcán se considera durmiente si desde hace siglos no ha tenido una erupción.
-                <h2>Volcanes extintos</h2>
+                <h2 class="arth2">Volcanes extintos</h2>
                 <h1>Artículo principal: Volcán extinto</h1>
                 Los volcanes extintos son aquellos cuya última erupción fue registrada hace más de 25 000 años. Sin embargo, no se descarta la posibilidad de que puedan despertar y liberar una erupción más fuerte que la de un volcán que está activo, causando grandes desastres. También se les llama extintos porque fueron alejados de su fuente de magma, perdiendo poco a poco su actividad, esto sucede únicamente en volcanes de punto caliente, a diferencia de los volcanes de zonas de subducción.
             </article>
             <article>
-                <h2>Tipos de erupciones volcánicas</h2>
+                <h2 class="arth2">Tipos de erupciones volcánicas</h2>
                 <h1>Artículo principal: Erupción volcánica</h1>
                 Erupción en el 2011 del Volcán Tungurahua, Ecuador.
                 La temperatura, composición, viscosidad y elementos disueltos en el magma son los factores que determinan el tipo de erupción y la cantidad de productos volátiles que la acompañan.
