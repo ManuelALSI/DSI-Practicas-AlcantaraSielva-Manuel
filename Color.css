@@ -21,6 +21,8 @@ table{
 .arth2{
     background-color: #f28de7;
     margin: 0px;
+    position: sticky;
+    top: 50px;
 }
 .arth1{
     background-color: #ffee3e;
@@ -35,4 +37,36 @@ table{
 }
 html{
     background-color: #f8efaf;
+}
+.img1{
+	width: 330px;
+	height: 300px;
+}
+.img2{
+	width: 330px;
+	height: 300px;
+}
+.tablas{
+	width: 200px;
+	height: 200px;
+}
+.img3{
+	width: 330px;
+	height: 300px;
+}
+.img4{
+	width: 330px;
+	height: 300px;
+}
+.img5{
+	width: 330px;
+	height: 300px;
+}
+.img6{
+	width: 330px;
+	height: 300px;
+}
+.img7{
+	width: 330px;
+	height: 300px;
 }
