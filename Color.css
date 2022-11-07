@@ -1,34 +1,38 @@
 .Titulo__h1{
-    background: plum;
+    background-color: #f28de7;
 }
 article{
-    background: palevioletred;
+    background: #f8b3bb;
 }
 .busq{
-    background: rgb(149, 103, 17);
+    background-color: #b96315;
     margin: 0px;
 }
 
 .inputs{
-    background: yellow;
+    background-color: #fca020;
 }
 
 table{
-    background: rgb(147, 83, 104);
+    background-color: #7e360a;
+    color: #20a0d8;
     display: block;
 }
 .arth2{
-    background: plum;
+    background-color: #f28de7;
     margin: 0px;
 }
 .arth1{
-    background: rgb(219, 27, 91);
+    background-color: #ffee3e;
     margin: 0px;
 }
 .busq1{
-    color: whitesmoke;
-    background: pink;
+    color: #4c1703;
+    background-color: #ffee3e;
 }
 *{
     margin: 6px;
+}
+html{
+    background-color: #f8efaf;
 }
