@@ -1,32 +1,40 @@
 .Titulo__h1{
     background-color: #f28de7;
+    font-size: 7px;
 }
 article{
     background: #f8b3bb;
+    font-size: 5px;
 }
 .busq{
     background-color: #b96315;
     margin: 0px;
+    width: 100px;
+    height: 300px;
 }
 
 .inputs{
     background-color: #fca020;
+    width: 100px;
+    height: 300px;
 }
 
 table{
     background-color: #7e360a;
     color: #20a0d8;
-    display: block;
+    height: 50px;
 }
 .arth2{
     background-color: #f28de7;
     margin: 0px;
     position: sticky;
     top: 50px;
+    font-size: 1px;
 }
 .arth1{
     background-color: #ffee3e;
     margin: 0px;
+    font-size: 1px;
 }
 .busq1{
     color: #4c1703;
@@ -43,8 +51,8 @@ html{
 	height: 300px;
 }
 .img2{
-	width: 330px;
-	height: 300px;
+	width: 150px;
+	height: 120px;
 }
 .tablas{
 	width: 200px;
