@@ -1,0 +1,72 @@
+.Titulo__h1{
+    background-color: #f28de7;
+}
+article{
+    background: #f8b3bb;
+}
+.busq{
+    background-color: #b96315;
+    margin: 0px;
+}
+
+.inputs{
+    background-color: #fca020;
+}
+
+table{
+    background-color: #7e360a;
+    color: #20a0d8;
+    display: block;
+}
+.arth2{
+    background-color: #f28de7;
+    margin: 0px;
+    position: sticky;
+    top: 50px;
+}
+.arth1{
+    background-color: #ffee3e;
+    margin: 0px;
+}
+.busq1{
+    color: #4c1703;
+    background-color: #ffee3e;
+}
+*{
+    margin: 6px;
+}
+html{
+    background-color: #f8efaf;
+}
+.img1{
+	width: 330px;
+	height: 300px;
+}
+.img2{
+	width: 330px;
+	height: 300px;
+}
+.tablas{
+	width: 200px;
+	height: 200px;
+}
+.img3{
+	width: 330px;
+	height: 300px;
+}
+.img4{
+	width: 330px;
+	height: 300px;
+}
+.img5{
+	width: 330px;
+	height: 300px;
+}
+.img6{
+	width: 330px;
+	height: 300px;
+}
+.img7{
+	width: 330px;
+	height: 300px;
+}
